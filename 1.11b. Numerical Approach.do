@@ -1,7 +1,5 @@
 * Full name: Minh Tri Hoang (Tri Hoang)
-* Student ID: 3291616
-* MSc student in Economics, Department of Economics, University of Bonn.
-* Email: tri.hoang@uni-bonn.de 
+* MSc student in Economics, Department of Economics, University of Bonn
 
 * COURSE: MACROECONOMICS (PhD-level)
 
