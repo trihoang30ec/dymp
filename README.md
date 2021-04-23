@@ -2,7 +2,7 @@
 
 Use the following parametrization of the model: ```A = 20```, ```α = 0.3```, and ```β = 0.6```.
 Set up a grid for possible capital values in the economy ```K = {2, 4, 6, 8, 10}```. 
-Write a computer code to find **value function**. 
+Write a computer code to find ```value function```. 
 
 Use: ```max k∈K |vn+1(k) − vn(k)| < 10−6``` as stopping criterion.
 
